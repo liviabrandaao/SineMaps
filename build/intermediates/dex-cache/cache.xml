@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.0_6dcff831f8ebaba14ac1307f18a4b5d1a19e2545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.2.0_a825bb083dbdc05d20909a98e03fd65a9a8a10e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_d85a00267aef1921df95ea4bcdd7b2188f17f5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.2.0_6786fd8e4caeb1d72173a53aae5e82e7a658a550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.0_6a7717143ab702180b20bb00acec57c862067118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LADOSS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_8ff006910c4198726fd28436b63742edec2a6ed4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LADOSS\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\okio-1.8.0_105588c6e19837c7c6baeae6efb3d4a095a61329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.2.0_dcc8cd93d6231fcafd3e6bf27034adee267c3bd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.2.0_2a83270885d6e78915ad88debff8a722f1bfedc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.2.0_9dda03ee1338387f25307643b7ccc9e9d388342f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LADOSS\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_ac977b600d98b0122b6cbedf6c8dc6961e507802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_2a4c4f286a533979e3eecbd18528b4a593c2060f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_6edefc2d1fddc7efc6868451f05f1f59c98efe76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.2.0_8a5c9919746b4b138aa467df3c342d10e8434fbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_a56950a366054fcdb44ce2b5415f5884cc69e322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_fe02f14a79b5d047c836e0eba8684cce770564fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_41507275a24953e9f0a75fd9eaa97b6f590ce4b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LADOSS\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\gson-2.7_580da0748dd80658e7b51006afd3046fb9b752ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.2.0_3aa005c0d7175c4a05af69fb473d7079e7236e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.2.0_09f4bf753528425aa1b2d4c0b73f78b4108c6e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_1a515ff2ffee1b8fad611b9d70625558f2c21452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e875c143754b173d3ae259112f4b52ff7e8be2e">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_114348d664516895c1d198de304e3e14d985b865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.2.0_78730cf1a54d0aaa6f9cb9142f7ea160ebfec340.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\LADOSS\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_29615e324f57938146b489179cb66775547d4691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.2.0_efe4462dc18e9c0f1350fe4f3d9d88ed78a5752b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.0_dbb72dfc47f584422921def5ac8dcce2498a4118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e41f68ff2e90e19563f1ac476ba3aa8cdec0a6b">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\instant-run_5a8e5c5c2de956b00e177b33a67f302fd46f49d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_f9636d80b6d4ce4d91a0c92b8f21c5f5f227d811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.2.0_48bb83edb8e9f8104e7f36de712feb416b061114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.2.0_97bac44ef3f3c2a6664674a3a783df7ee0314d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_b67db0b98bdffd8cb922288325cac8e65c7b4a98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_f65553f6780b70fdf0637acdc3c60a671e6c212c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.2.0_e25b3ce1e6fc2e2eae28da852df7f158eb806dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.2.0_253b4b2869ffd958a6f360869cb58ec205a5fcaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.2.0_1b4ce42d5bf92addd7d67af9b2e6919251476534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.2.0_55cc41900cf75e4bf597e4bae4688215458fc5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.2.0_b640579bb175c832148441667ac70cf80b822579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.2.0_39e9c6f475ce059e65af7715e85a79420bd53448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_7686cfb740f559fb8f3e9991f41b53544583d948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_bcc6566e8d027c6350d6376f86c2f06f1521b086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.2.0_c0a3077dd217cc8bb769d3e4682f5632708f46aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_491d0660937baffd42f27a75ae5dc55be2579e12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.0_69cd2e4e8252efe83f08163fa76ea27ee63826ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.2.0_bc5095e10b8019e62005e0b764f4d3a52df65a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_f41bae155950b1554e872243d640238c7ba86d01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.2.0_7724011172bfcc5b9b00d974b3699e6fca19abbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_60a35498459c649348e80d6945f4cac0894890e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.2.0_a64543c35c00f94a0709926f94fa929cacd8a18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.2.0_188fa5604720c4bbb2cf17c6aa14dbf6b77dea62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.2.0_bf101777927fa5251bb33a4e7a0efdcc7c2dc513.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_bc57c0cb3b756e787e04724a35d23e11bf239382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_d6e74ab3040d50f5ce4008a978b66aa2d02c3a62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.2.0_a6d2896b0ae635d07f702338b2fe57c3b8c7678d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_a1ad08120ff9dc82c510cff28a7a2a8a81d58f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_813edcc4e87572ed41b505d0aa8378713d646f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.2.0_1b56a41b4e3090ee5591e91864ccddeedacf223c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.2.0_eb3f6c990a754c6ddbe987644aca852124dbc31e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.2.0_df2b0df969570831dadac58d9d1f1a971e34243f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.2.0_ab7f8533b724ea998f8719c031909dff024a5ae8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_2c4a69fd473a29ac3e4b6b34eabf0dfe210b609d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.2.0_6bb2c06101b65d8e6ff64cf417a840cceae3ea23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_32dc6fb626af776e35fe872b5f32b1b44b73341c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.2.0_a1d1fe98cd5b34fb3fdee67e30b46d625099fd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_910aaa94ebb6aa487bf68e161eadf536b3ab6ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_b7e98d3bf4c0e9132ef095ef54d4101e2e23518b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_c909bd180f6f332cc82528c44ef6f80ab075e5ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.2.0_e0bd3657bad2b8253947616ec15d67fe59d74a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Java\android\Projetos\SineMaps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\Java\android\Projetos\SineMaps\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_f9c658fc5b5b2724bf12fc7990374831d60d2835.jar" />
+    </item>
+
+</items>
